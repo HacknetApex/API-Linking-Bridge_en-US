@@ -23,13 +23,18 @@ A lightweight API forwarding proxy bridge. It listens on a custom local port, au
 
 ## CLI Version
 1. Run the program by double-clicking, or launch it from terminal
+
 2. Enter the `add` command to create a new link, follow the prompts to finish configuration
+
 3. After configuration, use the **Up / Down arrow keys** to move the highlight selector for link selection
+
 4. Once selected, enter `start` to activate the link, or `stop` to halt it
+
 5. Enter `delete` to remove the selected link. **Double-check your selection before deletion to prevent accidental data loss**
+
 6. Use `stats` to view link status information, and `help` to list all available commands and usages
 
-> ⚠️ Note: Verify that your target port is not occupied by other programs before starting the link, otherwise the service will fail to run!
+# ⚠️ Note: Verify that your target port is not occupied by other programs before starting the link, otherwise the service will fail to run!
 
 This project is fully open-source and allows secondary development.
 
