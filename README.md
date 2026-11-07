@@ -39,10 +39,11 @@ A lightweight API forwarding proxy bridge. It listens on a custom local port, au
 This project is fully open-source and allows secondary development.
 
 For more information:
-https://ctxcode.top - (Homepage)
-https://ctxcode.cn - (Homepage)
-https://alb.ctxcode.top - (Project intro & download page)
-https://alb.ctxcode.cn - (Project intro & download page)
 
-> License: MIT
-> This license applies only to the source code of this proxy bridge. You must abide by the terms of service of each API provider when using this tool.
+https://ctxcode.top - (Homepage)
+
+https://ctxcode.cn - (Homepage)
+
+https://alb.ctxcode.top - (Project intro & download page)
+
+https://alb.ctxcode.cn - (Project intro & download page)
